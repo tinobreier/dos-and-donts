@@ -32,6 +32,6 @@ Wenn beispielsweise ein Nutzer einen <span class="md-colored-highlight">**Chatbo
 Weiterhin kann der Kontext auch **von anderen Nutzern oder Communitys** stammen und als eine Art _Sozialer Beweis_ (engl. Social Proof) nützen. Die Plattform X (ehemals Twitter) z.B. hat ein Feature eingebaut, bei dem Beiträge durch _Community Notes_ kommentiert werden können, um so wichtigen Kontext zu ergänzen und beispielsweise Falschinformationen abzuschwächen. Eine weitere Möglichkeit besteht darin, **Verhaltensmuster** von anderen Nutzern dem aktuellen Nutzer zu empfehlen. So könnte eine Social-Media-Plattform dem Nutzer einen bestimmten Account vorschlagen, basierend darauf, dass Freunde des Nutzers ebenfalls diesem Account folgen. Es könnte sich dabei also um ähnliche Interessen oder Freundesgruppen handeln. Wird dem Nutzer nun kommuniziert, dass 6 seiner Freunde diesem Account folgen, stärkt dies das Vertrauen und Interesse des Nutzers. In allen Fällen sorgen die zusätzlichen Informationen dazu, dass sich Empfehlungen besser verstehen, einordnen und bewerten lassen.
 
 
-## Kurzgefasst
+## <span class="summary-heading">Kurzgefasst</span>
 
 Bewährte Gestaltungsrichtlinien können dabei helfen, gute KI-Anwendungen zu gestalten. Die vorgestellten Richtlinien beziehen sich alle auf das Verhalten des Nutzers, damit seine Interaktionen in Zukunft effizient ablaufen, und lassen sich wie folgt verdichten: Erinnere an Vergangenes, Lerne über die Zeit, Kontextualisiere durch Drittquellen.
